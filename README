@@ -1,0 +1,11 @@
+# Dice Game
+
+The goal of the game is to roll the dice and get the highest score. The game will have two dice, each displaying a random number between 1 and 6 when rolled. The player can click a "Roll Dice" button to roll the dice and see the result. The game will keep track of the player's score and display it on the screen.
+
+To create this game, you will need to create an HTML file with a button and two images representing the dice. Use CSS to style the button and images to make them look like dice. You can also add some styling to the page to make it look more visually appealing.
+
+In your JavaScript file, you will need to define a function that generates a random number between 1 and 6 when the button is clicked, and then display the corresponding image on the screen. You can use another function to calculate the player's score and update it each time the dice are rolled. You can also add some animations to make the game more interactive and engaging.
+
+To make the game more interesting, you can add some additional features such as a timer, sound effects, or multiple players. You can also add some rules or challenges to the game, such as rolling certain combinations of numbers or rolling a specific number of times.
+
+Overall, creating a dice game with HTML, CSS, and JavaScript is a fun and rewarding project for beginners. It provides an opportunity to learn about basic programming concepts and to practice your HTML and CSS skills. With some creativity and effort, you can create a unique and entertaining game that you can share with your friends and family.
